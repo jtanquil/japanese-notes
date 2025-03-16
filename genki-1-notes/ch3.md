@@ -49,6 +49,7 @@ There are also two irregular categories of verbs defined by the verbs くる (to
 The tense above is called the "present tense" but it can be used to describe actions that a person habitually or regularly performs, or actions that a person is planning to perform in the future:
 
 "私はよくテレビを**見ます**" => "I often **watch** TV"
+
 "私は明日東京に**行きます**" => "I **will go** to Tokyo tomorrow"
 
 ### Particles
@@ -60,13 +61,14 @@ Nouns in sentences generally must be followed by **particles**, which indicate t
 | を | Indicates that the preceding noun is a direct object, so it is directly involved in or affected by the action being described. Pronounced "*o*". | "私はテニス**を**します" => "I play tennis" |
 | で | Indicates where the event described by the verb takes place. | "私は大学**で**勉強します" -> "I study **at** the university" |
 | に | Can describe either the goal towards which things move, or the time at which an event takes place (see below) | "私は六時**に**うち**に**帰ります" => "I will return **to** home **at** 6:00" |
-| へ | Can be used in place of に when describing the goal of movement. Pronounced "*e*". | "私は毎日大学へ行きます" => "I go **to** the university every day" |
+| へ | Can be used in place of に when describing the goal of movement. Pronounced "*e*". | "私は毎日大学**へ**行きます" => "I go **to** the university every day" |
 
 ### Word Order
 
 Japanese sentences are generally comprised of noun/particle pairs followed by a verb or an adjective; the order of these is fairly flexible.
 
 "私は月曜日に大学で日本語を勉強します" => "On Monday, I study Japanese at the university"
+
 "毎日アメリカでハンバーガーを食べませんか" => "Would you like to eat hamburgers in America every day?"
 
 ### Time References and に
@@ -77,7 +79,9 @@ Japanese sentences are generally comprised of noun/particle pairs followed by a 
 - numerical time expressions, like "at 10:00" or "in April":
 
 "**月曜日に**大学に帰ります" => "I will return to university **on Monday**".
+
 "**七時に**起きます" => "I get up **at 7:00**"
+
 "**一月に**日本に行きます" => "I will go to Japan **in January**"
 
 に is not used for the following descriptions of time:
@@ -87,7 +91,9 @@ Japanese sentences are generally comprised of noun/particle pairs followed by a 
 - the word いつ (when)
 
 "**今日**大学に行きます" => "I will go to university **today**"
+
 "**毎日**朝ご飯をたべます" => "I eat breakfast **every day**"
+
 "**いつ**寝ますか" => "**When** do you sleep?"
 
 に can be used in these descriptions of time, although it is unnecessary:
@@ -96,6 +102,7 @@ Japanese sentences are generally comprised of noun/particle pairs followed by a 
 - the word 週末 (weekend)
 
 "朝(に)コーヒーを飲みます" => "I drink coffee in the morning"
+
 "週末(に)何をしますか" => "What will you do this weekend?"
 
 Time references can be made approximate ("around...") by adding ごろ or substituting に with ごろに:
@@ -120,6 +127,7 @@ Adverbs like 毎日 (every day), よく (often), and 時々 (sometimes) can be u
 Adverbs like ぜんぜん (never) and あまり (infrequently; rarely) anticipate the negative conjugation of its corresponding verb.
 
 "あまりコーラを**飲みません**" => "I rarely drink cola"
+
 "ぜんぜんテレビを**見ません**"= > "I never watch TV"
 
 #### The Topic Particle は
@@ -135,6 +143,7 @@ A topic phrase doesn't need to be its main subject, however:
 Here, 今日 isn't the subject of the sentence (implicitly, the subject is the speaker), but it is presented as the main topic of the sentence via は (as in, the main topic of the sentence is **what the speaker is doing today**)
 
 A: "テレビは？" => "(Will you) watch TV?"
+
 B: "見ません" => "(I) won't (watch TV)"
 
 In this exchange, は presents the main topic as テレビ which is the direct object in relation to the thought being expressed here (whether or not B will watch TV); in this case は is being used to direct speaker B to finish the thought presented by A.
