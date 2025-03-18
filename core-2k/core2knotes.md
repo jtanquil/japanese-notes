@@ -23,6 +23,10 @@ on-yomi will be **bold**, kun-yomi will be `highlighted`.
 | 日 | 日本「**に**ほん」、日曜日「**にち**よう`び`」, 十日「とおか」 |
 | 時 | 時々「`とき`どき」、一時「いち**じ**」 |
 | 月 | 月「`つき`」 |
+| 水 | 水「`みず`」 |
+| 金 | 金「`かね`」 |
+| 曜 | 日曜日「にち**よう**び」 |
+| 土 | 土曜日「**ど**ようび」 |
 
 ---
 
@@ -34,3 +38,14 @@ Out of sequence in the Core2K list for some reason.
 | --- | --- | --- |
 | これ | Noun | this; this one |
 | する | Verb | to do; to make (**irregular verb**, conjugates like する) |
+
+---
+
+### Core2k Verbs
+
+Verbs encountered so far and their conjugation group. Will be revised as I learn more verb conjugations.
+
+| **Verb** | **Meaning** | **Conjugation Group** |
+| --- | --- | --- |
+| なる | to become | う-verb/godan |
+| やる | to do | う-verb/godan |
