@@ -20,7 +20,7 @@ on-yomi will be **bold**, kun-yomi will be `highlighted`.
 | 千 | 千「**せん**」 |
 | 万 | 万「**まん**」 |
 | 円 | 円「**えん**」 |
-| 日 | 日本「**に**ほん」、日曜日「**にち**よう`び`」, 十日「とおか」 |
+| 日 | 日本「**に**ほん」、日曜日「**にち**よう`び`」, 十日「とお`か`」 |
 | 時 | 時々「`とき`どき」、一時「いち**じ**」 |
 | 月 | 月「`つき`」、月曜日「**げつ**ようび」 |
 | 水 | 水「`みず`」、水曜日「**すい**ようび」 |
@@ -29,6 +29,10 @@ on-yomi will be **bold**, kun-yomi will be `highlighted`.
 | 土 | 土曜日「**ど**ようび」 |
 | 木 | 木曜日「**もく**ようび」 |
 | 火 | 火曜日「**か**ようび」 |
+| 週 | 週「**しゅう**」 |
+| 年 | 年「`とし`」 |
+| 分 | 分かる「`わ`かる」 |
+| 何 | 何「**なに**」 |
 
 ---
 
@@ -40,6 +44,8 @@ Out of sequence in the Core2K list for some reason.
 | --- | --- | --- |
 | これ | Noun | this; this one |
 | する | Verb | to do; to make (**irregular verb**, conjugates like する) |
+| 日「にち」 | Noun | day |
+| そう | Adverb | in that manner, in such a way |
 
 ---
 
@@ -51,3 +57,4 @@ Verbs encountered so far and their conjugation group. Will be revised as I learn
 | --- | --- | --- |
 | なる | to become | う-verb/godan |
 | やる | to do | う-verb/godan |
+| 分かる「わかる」| to undertand | う-verb/godan |
