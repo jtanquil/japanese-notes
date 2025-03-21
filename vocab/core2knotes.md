@@ -5,7 +5,7 @@ Not meant to be complete, just tallying words/readings encountered so far.
 on-yomi will be **bold**, kun-yomi will be `highlighted`.
 
 | **Kanji** | **Core2K words/readings/notes** | **meaning** |
-| --- | --- |
+| --- | --- | --- |
 | 一 | 一「**いち**」、一つ「`ひと`つ」、一日「ついたち」 | one |
 | 二 | 二「**に**」、二つ「`ふた`つ」、二日「ふつか」 | two |
 | 三 | 三「**さん**」、三つ「`みっ`つ」、三日「みっか」| three |
