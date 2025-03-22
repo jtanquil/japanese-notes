@@ -22,7 +22,7 @@ on-yomi will be **bold**, kun-yomi will be `highlighted`.
 | 円 | 円「**えん**」 | circle, yen, round |
 | 日 | 日本「**に**ほん」、日曜日「**にち**よう`び`」, 十日「とお`か`」、今日「きょう」 | day, sun, Japan |
 | 時 | 時々「`とき`どき」、一時「いち**じ**」 | time, hour |
-| 月 | 月「`つき`」、月曜日「**げつ**ようび」、今月「こん`がつ`」 | month, moon |
+| 月 | 月「`つき`」、月曜日「**げつ**ようび」、二月「に**がつ**」 | month, moon |
 | 水 | 水「`みず`」、水曜日「**すい**ようび」 | water |
 | 金 | 金「`かね`」、金曜日「**きん**ようび」 | gold |
 | 曜 | 日曜日「にち**よう**び」 | weekday |
@@ -34,7 +34,9 @@ on-yomi will be **bold**, kun-yomi will be `highlighted`.
 | 分 | 分かる「`わ`かる」 | part, understand |　
 | 何 | 何「**なに**」 | what |
 | 先 | 先「**さき**」 | before, ahead, previous |
-| 今 | 今「**いま**」、今年「`こ`とし」、今日「きょう」、今月「`こん`がつ」 | now |
+| 今 | 今「**いま**」、今年「`こ`とし」、今日「きょう」、今月「`こん`げつ」 | now |
+| 来 | 来る「**く**る」、来年「`らい`ねん」 | come, due, next, cause, become |
+| 行 | 行く「**い**く」 | going, journey, carry out | 
 
 ---
 

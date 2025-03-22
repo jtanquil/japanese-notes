@@ -2,7 +2,7 @@
 
 Relevant vocab from Genki 1, organized to be on the same page.
 
-#### Verbs from Ch 3
+#### Ch 3 - Verbs
 
 | **Verb** | **Category** | **Meaning** |
 | --- | --- | --- |
@@ -20,7 +20,7 @@ Relevant vocab from Genki 1, organized to be on the same page.
 | する | irregular | to do; to make |
 | 勉強する「べんきょうする」| する | to study |
 
-#### Verbs from Ch 4
+#### Ch 4 - Verbs
 
 | **Verb** | **Category** | **Meaning** |
 | --- | --- | --- |
@@ -33,7 +33,7 @@ Relevant vocab from Genki 1, organized to be on the same page.
 | 待つ「まつ」 | う | to wait |
 | わかる | う | to understand (~ が) |
 
-#### Relative Location Words
+#### Ch 4 - Relative Location Words
 
 | **Word** | **Meaning/Translation** |
 | --- | --- |
@@ -47,3 +47,54 @@ Relevant vocab from Genki 1, organized to be on the same page.
 | 近く「ちかく」 | "Xは**Yの近く**" => "X is **near Y**" |
 | 隣「となり」 | "Xは**Yの隣**" => "X is **next to Y**" |
 | 間「あいだ」 | "Xは**YとZの間**" => "X is **between Y and Z**" |
+
+#### Ch 5 - い-adjectives
+
+| **Word (Dictionary Form)** | **Meaning** |
+| --- | --- |
+| 新しい「あたらしい」 | new |
+| 暑い「あつい」 | hot (weather) |
+| 熱い「あつい」 | hot (thing) |
+| 忙しい「いそがし」 | busy (people/days) |
+| 大きい「おおきい」 | big |
+| 面白い「おもしろい」 | interesting; funny |
+| 怖い「こわい」 | scary |
+| 寒い「さむい」 | cold (weather) |
+| 楽しい「たのしい」 | fun |
+| 小さい「ちいさい」 | small |
+| つまらない | boring |
+| 古い「ふるい」 | old (thing - not used for people) |
+| 難しい「むずかしい」 | difficult |
+| やさしい | easy (problem); kind (person) |
+| 安い「やすい」 | inexpensive; cheap (thing) |
+
+#### Ch 5 - いい-adjectives
+
+| **Word (Dictionary Form)** | **Meaning** |
+| --- | --- |
+| いい | good |
+| かっこいい | cool |
+
+#### Ch 5 - な-adjectives
+
+| **Word (Dictionary Form)** | **Meaning** |
+| --- | --- |
+| 嫌いな「きらいな」 | disgusting with; to dislike (~が) |
+| きれいな | beautiful; clean |
+| 元気な「げんきな」 | healthy; energetic |
+| 静かな「しずかな」 | quiet |
+| 好きな「すきな」 | fond of; to like (~が) |
+| 大嫌いな「だいきらいな」 | to hate (~が) |
+| 大好きな「だいすきな」 | very fond of; to love (~が) |
+| にぎやかな | lively (place) |
+| 暇な「ひまな」 | not busy; to have a lot ot free time |
+
+#### Ch 5 - Verbs
+
+| **Word** | **Category** | **Meaning** |
+| --- | --- | --- |
+| 泳ぐ「およぐ」 | う |  to swim |
+| 聞く「きく」 | う | to ask (person に) |
+| 乗る「のる」 | う |to ride; to board (~に) |
+| やる | う | to do (~を) |
+| 出かける「でかける」 | る | to go out |
