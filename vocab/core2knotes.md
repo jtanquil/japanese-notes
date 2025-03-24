@@ -31,12 +31,19 @@ on-yomi will be **bold**, kun-yomi will be `highlighted`.
 | 火 | 火曜日「**か**ようび」 | fire |
 | 週 | 週「**しゅう**」 | week |
 | 年 | 年「`とし`」 | year, age |
-| 分 | 分かる「`わ`かる」 | part, understand |　
-| 何 | 何「**なに**」 | what |
-| 先 | 先「**さき**」 | before, ahead, previous |
-| 今 | 今「**いま**」、今年「`こ`とし」、今日「きょう」、今月「`こん`げつ」 | now |
-| 来 | 来る「**く**る」、来年「`らい`ねん」 | come, due, next, cause, become |
-| 行 | 行く「**い**く」 | going, journey, carry out | 
+| 分 | 分かる「`わ`かる」、多分「た**ぶん**」 | part, segment, understand, minute, 1% |　
+| 何 | 何「`なに`」 | what |
+| 先 | 先「`さき`」 | before, ahead, previous |
+| 今 | 今「`いま`」、今年「ことし」、今日「きょう」、今月「**こん**げつ」 | now |
+| 来 | 来る「`く`る」、来年「**らい**ねん」 | come, due, next, cause, become |
+| 行 | 行く「`い`く」 | going, journey, carry out | 
+| 帰 | 帰る「`かえ`る」 | homecoming, arrive at, lead to |
+| 大 | 大きい「`おお`きい」 | large, big |
+| 小 | 小さい「`ちい`さい」 | little, small |
+| 少 | 少ない「`すく`ない」、少し「`すこ`し」 | few, little |
+| 多 | 多い「`おお`い」、多分「**た**ぶん」 | many, frequent, much |
+| 上 | 上げる「`あ`げる」、上る「`のぼ`る」、上「`うえ`」 | above, up |
+| 下 | 下「`した`」 | below, down |
 
 ---
 
@@ -62,3 +69,8 @@ Verbs encountered so far and their conjugation group. Will be revised as I learn
 | なる | to become | う-verb/godan |
 | やる | to do | う-verb/godan |
 | 分かる「わかる」| to undertand | う-verb/godan |
+| 来る「くる」 | to come (~に) | irregular |
+| 行く「いく」 | to go (~に) | う-verb/godan |
+| 帰る「かえる」 | to return (~に) | う-verb/godan |
+| 上げる「あげる」 | to raise; to improve | る-verb/ichidan |
+| 上る「のぼる」 | to go up/to climb | う-verb/godan |
