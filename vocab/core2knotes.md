@@ -38,12 +38,16 @@ on-yomi will be **bold**, kun-yomi will be `highlighted`.
 | 来 | 来る「`く`る」、来年「**らい**ねん」 | come, due, next, cause, become |
 | 行 | 行く「`い`く」 | going, journey, carry out | 
 | 帰 | 帰る「`かえ`る」 | homecoming, arrive at, lead to |
-| 大 | 大きい「`おお`きい」 | large, big |
+| 大 | 大きい「`おお`きい」、大人「おとな」 | large, big |
 | 小 | 小さい「`ちい`さい」 | little, small |
 | 少 | 少ない「`すく`ない」、少し「`すこ`し」 | few, little |
 | 多 | 多い「`おお`い」、多分「**た**ぶん」 | many, frequent, much |
 | 上 | 上げる「`あ`げる」、上る「`のぼ`る」、上「`うえ`」 | above, up |
 | 下 | 下「`した`」 | below, down |
+| 右 | 右「`みぎ`」 | right |
+| 左 | 左「`ひだり`」 | left |
+| 方 | 方「**ほう**」 | directionn, person, alternative |
+| 人 | 人「`ひと`」, 一人「ひと`り`」, 大人「おとな」 | person; someone; somebody |
 
 ---
 
