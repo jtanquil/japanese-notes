@@ -48,6 +48,31 @@ Relevant vocab from Genki 1, organized to be on the same page.
 | 隣「となり」 | "Xは**Yの隣**" => "X is **next to Y**" |
 | 間「あいだ」 | "Xは**YとZの間**" => "X is **between Y and Z**" |
 
+#### Ch 4 - Days/Weeks/Months/Years (not in core2k)
+
+| **Word** | **Meaning** |
+| --- | --- |
+| 十四日「じゅう**よっか**」 | 14th day of the month |
+| 二十四日「にじゅう**よっか**」 | 24th day of the month |
+| 一月「いちがつ」 | January |
+| 二月「にがつ」 | February |
+| 三月「さんがつ」 | March |
+| 四月「**し**がつ」 | April |
+| 五月「ごがつ」 | May |
+| 六月「ろくがつ」 | June |
+| 七月「**しち**がつ」 | July |
+| 八月「はちがつ」 | August |
+| 九月「くがつ」 | September |
+| 十月「じゅうがつ」 | October |
+| 十一月「じゅういちがつ」 | November |
+| 十二月「じゅうにがつ」 | December |
+| 先週「せんしゅう」 | last week |
+| 先月「せんげつ」 | last month |
+| 去年「きょねん」 | last year |
+| 今週「こんしゅう」 | this week |
+| 来週「らいしゅう」 | next week |
+| 来月「らいげつ」 | next month |
+
 #### Ch 5 - い-adjectives
 
 | **Word (Dictionary Form)** | **Meaning** |
@@ -98,3 +123,33 @@ Relevant vocab from Genki 1, organized to be on the same page.
 | 乗る「のる」 | う |to ride; to board (~に) |
 | やる | う | to do (~を) |
 | 出かける「でかける」 | る | to go out |
+
+#### Ch 6 - Verbs
+
+| **Word** | **Category** | **Meaning** |
+| --- | --- | --- |
+| 遊ぶ「あそぶ」 | う | to play; to spend time pleasantly |
+| 急ぐ「いそぐ」 | う | to hurry |
+| お風呂に入る「おふろにはいる」 | う | to take a bath |
+| 返す「かえす」 | う | to return (a thing; person ~に thing ~を) |
+| 消す「けす」 | う | to turn off, to erase (~を) |
+| 死ぬ「しぬ」 | う | to die |
+| 座る「すわる」 | う | to sit down (seat ~に) |
+| 立つ「たつ」 | う | to stand up |
+| タバコを吸う「たばこをすう」 | う | to smoke |
+| 使う「つかう」 | う | to use (~を) |
+| 手伝う「てつだう」 | う | to help (person/task ~を) |
+| 入る「はいる」 | う | to enter (~に) |
+| 持つ「もつ」 | う | to carry; to gold (~を) |
+| 休む「やすむ」 | う | to be absent from (~を), to rest |
+| 開ける「あける」 | る | to open (something, ~を) |
+| 教える「おしえる」 | る | to teach; to instruct (person ~に thing ~を) |
+| 降りる「おりる」 | る | to get off (~を) |
+| 借りる「かりる」 | る | to borrow (person ~に thing ~を) |
+| 閉める「しめる」 | る | to close (something ~を) |
+| シャワーを浴びる「シャワーをあびる」 | る | to take a shower |
+| つける | る | to turn on |
+| 電話を掛ける「でんわをかける」 | る | to make a phone call (~に) |
+| 忘れる「わすれる」 | る | to forget; to leave behind (~を) |
+| 連れてくる「つれてくる」 | ~くる| to bring (a person ~を) |
+| 持ってくる「もってくる」 | ~くる | to bring (a thing ~を) |

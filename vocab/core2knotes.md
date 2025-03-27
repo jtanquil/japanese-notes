@@ -16,7 +16,7 @@ on-yomi will be **bold**, kun-yomi will be `highlighted`.
 | 八 | 八「**はち**」、八つ「`やっ`つ」、八日「ようか」 | eight |
 | 九 | 九「**きゅう**」、九つ「`ここの`つ」、九日「ここのか」 | nine |
 | 十 | 十「**じゅう**」、十日「`とお`か」、二十日「はつか」 | ten |
-| 百 | 百「**ひゃく**」 | hundred |
+| 百 | 百「**ひゃく**」 | hundred |Z
 | 千 | 千「**せん**」 | thousand |
 | 万 | 万「**まん**」 | ten thousand |
 | 円 | 円「**えん**」 | circle, yen, round |
@@ -31,23 +31,33 @@ on-yomi will be **bold**, kun-yomi will be `highlighted`.
 | 火 | 火曜日「**か**ようび」 | fire |
 | 週 | 週「**しゅう**」 | week |
 | 年 | 年「`とし`」 | year, age |
-| 分 | 分かる「`わ`かる」、多分「た**ぶん**」 | part, segment, understand, minute, 1% |　
+| 分 | 分かる「`わ`かる」、多分「た**ぶん**」 | part, degree, understand, minute, 1% |　
 | 何 | 何「`なに`」 | what |
 | 先 | 先「`さき`」 | before, ahead, previous |
 | 今 | 今「`いま`」、今年「ことし」、今日「きょう」、今月「**こん**げつ」 | now |
-| 来 | 来る「`く`る」、来年「**らい**ねん」 | come, due, next, cause, become |
+| 来 | 来る「`く`る」、来年「**らい**ねん」、出来る「で`き`る」 | come, due, next, cause, become |
 | 行 | 行く「`い`く」 | going, journey, carry out | 
 | 帰 | 帰る「`かえ`る」 | homecoming, arrive at, lead to |
 | 大 | 大きい「`おお`きい」、大人「おとな」 | large, big |
 | 小 | 小さい「`ちい`さい」 | little, small |
 | 少 | 少ない「`すく`ない」、少し「`すこ`し」 | few, little |
 | 多 | 多い「`おお`い」、多分「**た**ぶん」 | many, frequent, much |
-| 上 | 上げる「`あ`げる」、上る「`のぼ`る」、上「`うえ`」 | above, up |
+| 上 | 上げる「`あ`げる」、上る「`のぼ`る」、上「`うえ`」、上手「**じょう**ず」 | above, up |
 | 下 | 下「`した`」 | below, down |
 | 右 | 右「`みぎ`」 | right |
 | 左 | 左「`ひだり`」 | left |
-| 方 | 方「**ほう**」 | directionn, person, alternative |
+| 方 | 方「**ほう**」 | direction, person, alternative |
 | 人 | 人「`ひと`」, 一人「ひと`り`」, 大人「おとな」 | person; someone; somebody |
+| 入 | 入れる「`い`れる」、入る「`はい`る」 | enter, insert |
+| 出 | 出る「`で`る」、出す「`だ`す」、出来る「`で`きる」 | exit, leave, go out, put out |
+| 本 | 本「**ほん**」 | book, present, main, origin, true, real |
+| 休 | 休み「`やす`み」 | rest, day off, retire, sleep |
+| 体 | 体「`からだ`」 | body, substance, object | 
+| 目 | 目「`め`」 | eye, look |
+| 口 | 口「`くち`」 | mouth |
+| 耳 | 耳「`みみ`」 | ear |
+| 手 | 上手「じょう**ず**」、手「`て`」 | hand |
+| 足 | 足「`あし`」| leg, foot, be sufficient |
 
 ---
 
@@ -61,6 +71,7 @@ Out of sequence in the Core2K list for some reason.
 | する | Verb | to do; to make (**irregular verb**, conjugates like する) |
 | 日「にち」 | Noun | day |
 | そう | Adverb | in that manner, in such a way |
+| できる | to be able to do, to be good at |
 
 ---
 
@@ -78,3 +89,8 @@ Verbs encountered so far and their conjugation group. Will be revised as I learn
 | 帰る「かえる」 | to return (~に) | う-verb/godan |
 | 上げる「あげる」 | to raise; to improve | る-verb/ichidan |
 | 上る「のぼる」 | to go up/to climb | う-verb/godan |
+| 入れる「いれる」 | to put in | る-verb/ichidan |
+| 出す「だす」 | to take out, turn in | う-verb, godan |
+| 入る「はいる」 | to enter | う-verb/godan |
+| 出る「でる」 | to go out, leave | る-verb, ichidan |
+| 休む「やすむ」 | to take a break, take the day off | う-verb, godan |
