@@ -1,10 +1,10 @@
-### Core2K Vocab/Kanji
+### Core2K/Kaishi1.5K Kanji/Vocab
 
 Not meant to be complete, just tallying words/readings encountered so far.
 
 on-yomi will be **bold**, kun-yomi will be `highlighted`.
-
-| **Kanji** | **Example words/readings/notes** | **meaning** | **JLPT level**
+九時　
+| **Kanji** | **Example words/readings** | **meaning** | **JLPT level**
 | --- | --- | --- | --- |
 | 一 | 一「**いち**」、一つ「`ひと`つ」、一日「ついたち」 | one | N5 |
 | 二 | 二「**に**」、二つ「`ふた`つ」、二日「ふつか」 | two | N5 |
@@ -30,7 +30,7 @@ on-yomi will be **bold**, kun-yomi will be `highlighted`.
 | 木 | 木曜日「**もく**ようび」 | tree, wood | N5 |
 | 火 | 火曜日「**か**ようび」 | fire | N5 |
 | 週 | 週「**しゅう**」 | week | N4 |
-| 年 | 年「`とし`」 | year, age | N5 |
+| 年 | 年「`とし`」、来年「らい**ねん**」 | year, age | N5 |
 | 分 | 分かる「`わ`かる」、多分「た**ぶん**」 | part, degree, understand, minute, 1% |　
 | 何 | 何「`なに`」 | what | N5 |
 | 先 | 先「`さき`」 | before, ahead, previous | N5 |
@@ -46,7 +46,6 @@ on-yomi will be **bold**, kun-yomi will be `highlighted`.
 | 下 | 下「`した`」 | below, down | N5 |
 | 右 | 右「`みぎ`」 | right | N5 |
 | 左 | 左「`ひだり`」 | left | N5 |
-| 方 | 方「**ほう**」 | direction, person, alternative | N4 |
 | 人 | 人「`ひと`」, 一人「ひと`り`」, 大人「おとな」 | person; someone; somebody | N5 |
 | 入 | 入れる「`い`れる」、入る「`はい`る」 | enter, insert | N5 |
 | 出 | 出る「`で`る」、出す「`だ`す」、出来る「`で`きる」 | exit, leave, go out, put out | N5 |
@@ -67,6 +66,11 @@ on-yomi will be **bold**, kun-yomi will be `highlighted`.
 | 私 | 私「`わたし`」 | I, me, private | N4 |
 | 友 | 友達「`とも`だち」 | friend | N5 |
 | 達 | 友達「とも`だち`」 | accomplished, reach, arrive, attain | N3 |
+| 語 | 日本語「にほん**ご**」 | word, speech, language | N5 |
+| 願 | おねがいします「お`ねが`いします」 | petition, request, vow, wish, hope | N3 |
+| 君 | 君「`きみ`」 | you, ruler, mister | N3 |
+| 沢 | 沢山「**たく**さん」 | swamp, marsh, brilliance, grace | N1 |
+| 山 | 沢山「たく**さん**」 | mountain | N5 |
 
 ---
 
